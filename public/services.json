@@ -1,0 +1,44 @@
+[
+    {
+        "id": "625ddc4afbf99de60c1e4f86",
+        "img": "https://i.ibb.co/BgdSfH5/Outdoor-Photo-Shoot.jpg",
+        "name": "Outdoor Photo Shoot",
+        "price": "3000",
+        "details": "Full setup in a Outdoor Photo Shoot for Modeling , Manipulation or Advertisement."
+    },
+    {
+        "id": "625ddc4aae288018d72f37b7",
+        "img": "https://i.ibb.co/8czYRRL/Indoor-Photo-Shoot.jpg",
+        "name": "Indoor Photo Shoot",
+        "price": "2000",
+        "details": "Full setup in a indoor Photo Shoot for Modeling , Manipulation or Advertisement."
+    },
+    {
+        "id": "625ddc4a0cdb7c1a826c2a5f",
+        "img": "https://i.ibb.co/0X3psbx/Family-photo-shoot.jpg",
+        "name": "Family photo shoot",
+        "price": "3000",
+        "details": "Capture all happy moment for a sweet family. "
+    },
+    {
+        "id": "625ddc4ae1c032a81a2edd4f",
+        "img": "https://i.ibb.co/0MKcWvT/Wedding-photography.jpg",
+        "name": "Wedding photography",
+        "price": "10000",
+        "details": "For couples who don't Miss a wedding photo shoot."
+    },
+    {
+        "id": "625ddc4a3b645e96d6c7c33c",
+        "img": "https://i.ibb.co/Kxhk6ZV/Culture-Photo-Shoot.jpg",
+        "name": "Culture Photo Shoot",
+        "price": "8000",
+        "details": "Capture all happy & Sweet moment for a Culture Program."
+    },
+    {
+        "id": "625ddc4a70195587d49b17f1",
+        "img": "https://i.ibb.co/Qj7Yvrb/Videography.jpg",
+        "name": "Videography",
+        "price": "15000",
+        "details": "Capture Contact Base Video shoot & editing "
+    }
+]

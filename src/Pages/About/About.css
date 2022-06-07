@@ -1,0 +1,19 @@
+.about-text {
+    color: white;
+    text-align: left;
+
+
+}
+
+.outline {
+    border: 5px double goldenrod;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.my-img {
+    border-radius: 50%;
+    border: 2px dotted goldenrod;
+    padding: 5px;
+
+}

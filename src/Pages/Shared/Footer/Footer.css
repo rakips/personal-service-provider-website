@@ -1,0 +1,27 @@
+.page-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 10px;
+    color: white;
+}
+
+.page-footer a {
+    text-decoration: none;
+    padding: 15px;
+    color: orange;
+}
+
+.page-footer span {
+    text-decoration: none;
+    padding: 8px;
+    color: orange;
+}
+
+.page-footer a:hover {
+    color: white;
+}
+
+.page-footer span:hover {
+    color: white;
+}

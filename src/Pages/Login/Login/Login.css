@@ -1,0 +1,23 @@
+.give-info {
+    border: 1px solid skyblue;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 5px orange;
+    margin: 20px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+
+@media only screen and (max-width: 576px) {
+    .give-info {
+        border: 1px solid skyblue;
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 5px 10px 5px orange;
+        margin: 10px;
+        width: 80%;
+        margin-bottom: 10px;
+
+    }
+}

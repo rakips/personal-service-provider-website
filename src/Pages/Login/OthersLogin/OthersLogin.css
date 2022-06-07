@@ -1,0 +1,12 @@
+.social-link {
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.social-link img {
+    width: 25px;
+    padding-right: 5px;
+}
